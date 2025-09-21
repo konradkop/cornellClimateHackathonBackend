@@ -3,6 +3,7 @@
 This repository contains the **Node.js/Express backend** for the Cornell Climate in Health Hackathon project.  
 It provides **email and notification services** using **AWS Simple Email Service (SES)** and connects with the [frontend repository](https://github.com/konradkop/cornellClimateHackathon).  
 
+The ML model is still a WIP
 ---
 
 ## 🚀 Getting Started
